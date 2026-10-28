@@ -8,7 +8,9 @@
 
 ## 2. Cómo funciona por dentro
 
-![Esquema de funcionamiento](img/esquema.png)
+![Esquema de funcionamiento](img/ejemplo-esquema.svg)
+
+<!-- Guardad vuestras imágenes en img/ y cambiad el nombre del archivo en la línea de arriba. -->
 
 ## 3. Características, unidades y cómo se miden
 
@@ -24,7 +26,7 @@
 | Dato de la ficha | Qué significa | ¿Es bueno? ¿Para qué uso? |
 |---|---|---|
 
-![Foto o captura del modelo](img/modelo.png)
+<!-- Aquí va la foto o captura del modelo: ![Foto del modelo](img/modelo.jpg) -->
 
 ## 6. Averías típicas y errores al elegirla o instalarla
 

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" font-family="sans-serif" font-size="16">
+<rect width="640" height="220" fill="#F4F1EA"/>
+<rect x="30" y="70" width="150" height="80" rx="8" fill="#fff" stroke="#22252A" stroke-width="2"/><text x="105" y="115" text-anchor="middle">Entrada</text>
+<rect x="245" y="70" width="150" height="80" rx="8" fill="#1F6F5C"/><text x="320" y="115" text-anchor="middle" fill="#fff">Tu componente</text>
+<rect x="460" y="70" width="150" height="80" rx="8" fill="#fff" stroke="#22252A" stroke-width="2"/><text x="535" y="115" text-anchor="middle">Salida</text>
+<path d="M180 110h60M395 110h60" stroke="#22252A" stroke-width="3" marker-end="url(#f)"/>
+<defs><marker id="f" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10z" fill="#22252A"/></marker></defs>
+<text x="320" y="40" text-anchor="middle" fill="#555">Ejemplo de esquema: sustituidlo por el vuestro (dibujo propio, foto o captura)</text>
+</svg>
